@@ -8,7 +8,7 @@ I studied Computer Engineering for 3 years and I'm passionate about building thi
 
 Currently focused on **application development**, with plans to dive deep into **AI/Machine Learning** and **Cybersecurity**.
 
-I'm working on recreating a Tetris-style game I built during university (lost the original code before I discovered Git... lesson learned! 😅)
+Currently rebuilding a Tetris game from my university days
 
 ## 💻 Tech Stack
 
@@ -19,12 +19,10 @@ I'm working on recreating a Tetris-style game I built during university (lost th
 **Tools I use:**
 - Git & GitHub
 
-**What I'm learning next:**
+**Learning:**
 - Django & PostgreSQL
 - AI/NLP (NLTK, scikit-learn)
-- Web Development (HTML/CSS, JavaScript)
 - Data Analysis (Pandas, NumPy)
-- APIs (Stripe, Google Vision, Tesseract)
 - Web Scraping (BeautifulSoup)
 
 ## 🎯 Goal
